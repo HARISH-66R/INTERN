@@ -1,0 +1,255 @@
+<!DOCTYPE HTML>
+
+<HTML lang="en">
+    <head>
+        <title>
+            document
+        </title>
+        <link rel="stylesheet" href="style.css"
+        
+    </head>
+    
+    <body>
+        <TABLE border="1px" cell padding="40px" cell spacing="20px">
+        <caption>PERIODIC TABLE</caption>
+        
+        <tr>
+            <td class="halogens">1<br><bold>H</bold><br>hydrogen</td>
+            <td colspan="16"></td>
+            <td class="nobel">2<br><bold>He</bold><br>helium</td>                 
+        </tr>
+        
+            <tr>
+            <td class="alkali">3<br><bold>Li</bold><br>lithium</td>
+            <td class="alkaline">4<br><bold>Be</bold><br>beryllium</td>
+             <td colspan="10"></td>
+
+                       <td class="metal">5<br><bold>B</bold><br>Boron</td>
+                        <td class="non metal">6<br><bold>C</bold><br>carbon</td>
+                         <td class="non metal">7<br><bold>N</bold><br>nitrogen</td>
+                          <td class="non metal">8<br><bold>O</bold><br>oxygen</td>
+                           <td class="halogens">9<br><bold>F</bold><br>fluorine</td>
+                            <td class="nobel">10<br><bold>Ne</bold><br>Neon</td>
+                             
+                             
+        </tr>
+                <tr>
+            <td class="alkali">11<br><bold>Na</bold><br>sodium</td>
+            <td class="alkaline">12<br><bold>Mg</bold><br>magnesium</td>
+             <td colspan="10"></td>
+
+ 
+                     
+                    
+                         <td class="other">13<br><bold>Al</bold><br>Aluminium</td>
+                          <td class="metal">14<br><bold>Si</bold><br>Silicon</td>
+                           <td class="non metal">15<br><bold>p</bold><br>Phosphorous</td>
+                            <td class="non metal">16<br><bold>S</bold><br>Sulphur</td>
+                             <td class="halogens">17<br><bold>Cl</bold><br>Chlorine</td>
+                             <td class="nobel">18<br><bold>Ar</bold><br>Argon</td>
+        </tr>
+        <tr>
+            <td class="alkali">19<br><bold>K</bold><br>potasium</td>
+             <td class="alkaline">20<br><bold>Ca</bold><br>calcium</td>
+              <td class="transition">21<br><bold>Sc</bold><br>sodium</td>
+              <td class="transition">22<br><bold>Ti</bold><br>Titanium</td>
+              <td class="transition">23<br><bold>V</bold><br>Vanadium</td>
+              <td class="transition">24<br><bold>cr</bold><br>chlorium</td>
+              <td class="transition">25<br><bold>Mn</bold><br>Magnesium</td>
+              <td class="transition">26<br><bold>Fe</bold><br>Iron</td>
+              <td class="transition">27<br><bold>Co</bold><br>Cobalt</td>
+              <td class="transition">28<br><bold>Ni</bold><br>Nickel</td>
+              <td class="transition">29<br><bold>Cu</bold><br>Copper</td>
+              <td class="transition">30<br><bold>Zn</bold><br>Zinc</td>
+              <td class="other">31<br><bold>Ga</bold><br>Galium</td>
+              <td class="metal">32<br><bold>Ge</bold><br>Germanium</td>
+              <td class="metal">33<br><bold>As</bold><br>Arsenic</td>
+              <td class="non metal">34<br><bold>Se</bold><br>Selenium</td>
+              <td class="halogens">35<br><bold>Br</bold><br>Bromyine</td>
+              <td class="nobel">36<br><bold>Kr</bold><br>Krypton</td>
+        </tr>
+                <tr>
+            <td class="alkali">37<br><bold>Rb</bold><br>Rubidium</td>
+            <td class="alkali">38<br><bold>Sr</bold><br>Strontium</td>
+             <td class="transition">39<br><bold>Y</bold><br>Yttrium</td>
+              <td class="transition">40<br><bold>Zr</bold><br>Zirconium</td>
+               <td class="transition">41<br><bold>Nb</bold><br>Niobium</td>
+                <td class="transition">42<br><bold>Mo</bold>Molybdenum</td>
+                 <td class="transition">43<br><bold>Tc</bold><br>Technetium</td>
+                  <td class="transition">44<br><bold>Ru</bold><br>Ruthenium</td>
+                   <td class="transition">45<br><bold>Rh</bold>br>Rhodium</td>
+                    <td class="transition">46<br><bold>Pd</bold><br>Palladium</td>
+                     <td class="transition">47<br><bold>Ag</bold><br>Silver</td>
+                      <td class="transition">48<br><bold>Cd</bold><br>Cadium</td>
+                       <td class="other">49<br><bold>In</bold><br>Indium</td>
+                        <td class="other">50<br><bold>Sn</bold><br>Tin</td>
+                         <td class="metal">51<br><bold>Sb</bold><br>antimony</td>
+                          <td class="metal">52<br><bold>Te</bold><br>Telluriium</td>
+                           <td class="halogens">53<br><bold>I</bold><br>Iodine</td>
+                            <td class="nobel">54<br><bold>Xe</bold><br>Xenon</td>
+                             
+                             
+        </tr>
+                <tr>
+            <td class="alkali">55<br><bold>Cs</bold><br>Cesium</td>
+            <td class="alkaline">56<br><bold>Ba</bold><br>Barium</td>
+             <td class="lanthan"></td>
+              <td class="transition">72<br><bold>Hf</bold><br>Hafnium</td>
+               <td class="transition">73<br><bold>Ta</bold><br>Tantalum</td>
+                <td class="transition">74<br><bold>w</bold><br>Tungsten</td>
+                 <td class="transition">75<br><bold>Re</bold><br>Rhenium</td>
+                  <td class="transition">76<br><bold>OS</bold><br>osmium</td>
+                   <td class="transition">77<br><bold>Ir</bold><br>Iridium</td>
+                    <td class="transition">78<br><bold>Pt</bold><br>Platinium</td>
+                     <td class="transition">79<br><bold>Au</bold><br>Gold</td>
+                      <td class="transition">80<br><bold>Hg</bold><br>Mercury</td>
+                       <td class="transition">81<br><bold>Xe</bold><br>Tallium</td>
+                        <td class="other">82<br><bold>Pb</bold><br>Lead</td>
+                         <td class="other">83<br><bold>Bi</bold><br>Bismuth</td>
+                          <td class="other">84<br><bold>Po</bold><br>Polonium</td>
+                           <td class="metal">85<br><bold>At</bold><br>Astatine</td>
+                            <td class="halogens">86<br><bold>Rn</bold><br>Radon</td>
+
+                             
+        </tr>
+                <tr>
+            <td class="alkali">87<br>Fr</td>
+            <td class="alkaline">88<br>Ra</td>
+             <td class="acti"></td>
+              <td class="transition">104<br><bold>Rf</bold><br>Rutherfordium</td>
+               <td class="transition">105<br><bold>Db</bold><br>Dubnium</td>
+                <td class="transition">106<br><bold>Sg</bold><br>Seaborgim</td>
+                 <td class="transition">107<br><bold>Bh</bold><br>Bohrium</td>
+                  <td class="transition">108<br><bold>Hs</bold><br>Hassium</td>
+                   <td class="transition"> 109<br><bold>Mt</bold><br>Meitnerium</td>
+                    <td class="transition">110<br><bold>Ds</bold><br>Darmstadtium</td>
+                     <td class="transition">111<br><bold>Rg</bold><br>Roentgrenium</td>
+                      <td class="transition">112<br><bold>Cn</bold><br>Copernicium</td>
+                       <td class="other">113<br><bold>Nh</bold><br>Nihonium</td>
+                        <td class="other">114<br><bold>Fl</bold><br>Flerovium</td>
+                         <td class="other">115<br><bold>Mc</bold><br>Moscovium</td>
+                          <td class="other">116<br><bold>Lv</bold><br>Livermoriu</td>
+                           <td class="halogens">117<br><bold>Ts</bold><br>Tennessine</td>
+                            <td class="nobel">118<br><bold>Og</bold><br>oganesson</td>
+                           
+                             
+        </tr>
+        
+        </TABLE>
+        
+        <centre>
+        <div>
+            SECOND TABLE
+        </div>
+        <table>
+            
+            <tr class="lanthan">
+                <td>57<br><bold>La</bold><br></td>
+                 <td>58<br><bold>Ce</bold><br></td>
+                  <td>59<br><bold>pr</bold><br></td>
+                   <td>60<br><bold>Nd</bold><br></td>
+                    <td>61<br><bold>Pm</bold><br></td>
+                     <td>62<br><bold>Sm</bold><br></td>
+                      <td>63<br><bold>Eu</bold><br></td>
+                       <td>64<br><bold>Gd</bold><br></td>
+                        <td>65<br><bold>Tb</bold><br></td>
+                         <td>66<br><bold>Dy</bold><br></td>
+                          <td>67<br><bold>Ho</bold><br></td>
+                           <td>68<br><bold>Er</bold><br></td>
+                            <td>69<br><bold>Tm</bold><br></td>
+                             <td>70<br><bold>Yb</bold><br></td>
+                              <td>71<br><bold>lu</bold><br></td>
+                              
+            </tr>
+            <tr class="acti">
+                
+                    <td>89<br><bold>Ac</bold><br></td>
+                 <td>90<br><bold>Th</bold><br></td>
+                  <td>91<br><bold>Pa</bold><br></td>
+                   <td>92<br><bold>u</bold><br></td>
+                    <td>93<br><bold>Np</bold><br></td>
+                     <td>94<br><bold>Pu</bold><br></td>
+                      <td>95<br><bold>Am</bold><br></td>
+                       <td>96<br><bold>Cm</bold><br></td>
+                        <td>97<br><bold>BK</bold><br></td>
+                         <td>98<br><bold>Cf</bold><br></td>
+                          <td>99<br><bold>Es</bold><br></td>
+                           <td>100<br><bold>Fm</bold><br></td>
+                            <td>101<br><bold>Md</bold><br></td>
+                             <td>102<br><bold>Md</bold><br></td>
+                              <td>103<br><bold>No</bold><br></td>
+                              
+                
+            </tr>
+            
+        </table>
+        </centre>
+    </body>
+    
+    
+    
+</HTML>
+
+
+
+
+
+STYLE SHEET:
+
+
+
+            table {
+            border-collapse: collapse;
+            }
+
+            td {
+            border: 1px solid lightblue;
+            width: 60px;
+            height: 60px;
+            text-align: center;
+            vertical-align: middle;
+            }
+            .halogens{
+                background-color:lightblue;
+            }
+            .nobel{
+                background-color:purple;
+            }
+            .other{
+                background-color:darkgrey;
+            }
+
+            .nonmetal {
+            background-color: pink;
+            }
+
+            .alkali {
+            background-color: lightcoral;
+            }
+
+            .alkaline {
+            background-color: khaki;
+            }
+
+            .metalloid {
+            background-color: lightsalmon;
+            }
+
+            .halogen {
+            background-color: plum;
+            }
+
+            .metal {
+            background-color: lightgray;
+            }
+
+            .transition {
+            background-color: sandal;
+            }
+            .lanthan
+            {
+                background-color:orange;
+            }
+    .acti{
+        background-color:green;
+    }
