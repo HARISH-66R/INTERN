@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+            ROMAN
+        </title>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+<body>
+    <form>
+<h1>REGISTRATION FORM</h1>
+<P>
+<label for="name" >NAME :</label><br>
+<input type="text" id="name" name="name" placeholder="ENTER YOUR NAME" required>
+</P>
+<p>
+    <label for="phone number">PHONE NUMBER:</label><BR>
+    <INPUT type="text" id="NUMBER" name="ph.no" placeholder="ENTER YOUR NUMBER" required>
+</p>
+<p>
+    <label for="D.O.B">Date.Of.Birth :</label><br>
+    <input type="date" id="D.O.B" name="date of birth" required>
+</p>
+<P>
+    <label for="age">AGE :</label><br>
+    <input type="text" id="age" name="age" placeholder="ENTER YOUR AGE" required>
+</P>
+
+
+<P>
+    <label for="gender">GENDER :</label><br>
+    
+    <input type="radio" id="gender" name="gender" value="MALE" required>
+    <label for="MALE">MALE</label>
+  <br>
+    <input type="radio" id="gender" name="gender" value="FEMALE" required>
+      <label for="FEMALE">FEMALE</label>
+    
+    <br>
+    <input type="radio" id="gender" name="gender" value="OTHER" required>
+<label for="other">OTHER</label>
+</P>
+
+
+<P>
+    <LABEL for="e-mail" >E-MAIL :</LABEL><br>
+    <input type="text" id="E-MAIL" name="E-MAIL" placeholder="ENTER YOUR E-MAIL" required>
+</P>
+<P>
+<label for="ADDRESS" >ADDRESS :</label><br>
+<!--<input type="textarea" id="ADDRESS" name="ADDRESS" placeholder="ENTER YOUR ADDRESS">-->
+<textarea name="ADDRESS"rows="4"cols="30" placeholder="ENTER YOUR ADDRESS" required></textarea>
+</P>
+
+
+<P>
+    <label for="course">SELECT YOUR COURSE :</label><br>
+    <select id="course" name="course" required>
+        <option>SELECT COURSE</option>
+    <option>CSE</option>
+    <option>IT</option>
+    <option>ECE</option>
+    <option>MEC</option>
+    <option>EEE</option>
+    <option>CIVIL</option>
+    </select>
+</P>
+<p>
+    <label for="check box">
+        HOBBIES :
+    </label>
+    <br>
+    <textarea name="HOBBIES" rows="5" cols="40" placeholder="ENTER YOUR HOBBIES:" required></textarea>
+    </p>
+<!--    <P>-->
+<!--    <input type="checkbox" id="reading" name="HOBBIES" value="reading" -->
+<!--    >-->
+<!--    <label for="reading">READING</label>-->
+<!--    </p>-->
+<!--    <P>-->
+<!--         <input type="checkbox" id="MUSIC" name="HOBBIES" value="MUSIC" >-->
+<!--    <label for="reading">MUSIC</label>-->
+<!--    </p>-->
+<!--    <P>-->
+<!--            <input type="checkbox" id="GAMES" name="HOBBIES" value="GAMES" >-->
+<!--    <label for="reading">GAMES</label>-->
+<!--    </p>-->
+<!--    <P>-->
+<!--            <input type="checkbox" id="MOBILE" name="HOBBIES" value="MOBILE" >-->
+<!--    <label for="reading">MOBILE</label>-->
+<!--       </p>    -->
+<!--</p>-->
+
+
+<p>
+    <label for="language">LANGUAGE KNOWN :</label><br>
+    <input type="checkbox" id="ENGLISH" name="LANGUAGE" value="ENGLISH">
+    <label for="ENGLISH">ENGLISH</label><BR>
+    <input type="checkbox" id="TAMIL" name="LANGUAGE" value="ENGLISH">
+    <label for="ENGLISH">TAMIL</label><BR>
+        <input type="checkbox" id="HINDI" name="LANGUAGE" value="ENGLISH">
+    <label for="ENGLISH">HINDI</label><BR>
+        <input type="checkbox" id="TELUGU" name="LANGUAGE" value="ENGLISH">
+    <label for="ENGLISH">TELUGU</label><BR>
+</p>
+<p>
+    <label for="photo">UPLOADYOUR PHOTO</label><BR>
+        <input type="file" id="photo" name="photo" required>
+</p>
+
+<P>
+    <input type="checkbox" id="agree" name="agree" value="agree" required>
+    <label  for="AGREE">AGREE TO TERMS AND CONDITION</label>
+</P>
+
+<P>
+    
+    <button value="SUMBIT" href="ROMAN.HTML">SUMBIT</button>
+     <button value="reset" formaction="refresh">RESET</button>
+</P>
+</form>
+
+</body>
+</html>
